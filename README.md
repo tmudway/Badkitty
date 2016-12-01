@@ -1,7 +1,15 @@
 # Badkitty
 Remake of the BadKitty druid addon through TellMeWhen scripts
 
-## How to use
+## Preview
+
+Full addon in edit mode  
+<p align=center><a target="_blank" href="https://cloud.githubusercontent.com/assets/3653340/20781700/df20b1fc-b752-11e6-94a5-7146c266b03d.jpg"><img src="https://cloud.githubusercontent.com/assets/3653340/20781700/df20b1fc-b752-11e6-94a5-7146c266b03d.jpg" width=300></a></p>
+
+Addon in use  
+<p align=center><a target="_blank" href="https://cloud.githubusercontent.com/assets/3653340/20781701/df2aaaae-b752-11e6-935d-4ac4e2838711.jpg"><img src="https://cloud.githubusercontent.com/assets/3653340/20781701/df2aaaae-b752-11e6-935d-4ac4e2838711.jpg" width=700></a></p>
+
+## How to install
 Current version has each spec as a seperate file. Will work on merging all into 1 addon script for ease of use.
 
 
@@ -19,6 +27,14 @@ The scripts are currently set to only show during combat so you'll need to find 
 TellMeWhen can be found on [Curse](https://mods.curse.com/addons/wow/tellmewhen) or on [WoWInterface](http://www.wowinterface.com/downloads/info10855-TellMeWhen.html)  
 All scripts confirmed to work with TMW version 8.2.3
 
+## How to use
+
+All icons will show if their current buff/debuff isnt applied or has come off cooldown. Each icon will also display if its about to drop off/come off cooldown (current timer starts at 7s)
+
+Rip and Savage Roar will show as red if you have less than the threshold number of combo points (5 for rip, 4 for savage roar). This threshold can be changed by right clicking the icon, going to "Conditions" near the bottom left of the config window and moving the sider.
+
+Ferocious bite only shows if savage roar has >12s left (can be changed the same way as above) and either rip has >12s left or rip is applied and the boss has sub-25% health
+
 ## Contributing
 
 All contributions are appreciated, especially for other specs. Simply keep the same basic structure as the current script to make merging easier.
@@ -29,6 +45,7 @@ All contributions are appreciated, especially for other specs. Simply keep the s
 - No icon in top right of feral spec (any suggestions?)
 - Icon for combo points doesnt match the original one on FC. If anyone can get me the spell/item name of the old icon I'd appreciate it
 - No CD bar for clearcasting/bloodtalons/Predatory swiftness
+- Resources always show at the top of the cooldown bar
 
 ## Changelog
 
