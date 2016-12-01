@@ -22,8 +22,18 @@ All scripts confirmed to work with TMW version 8.2.3
 
 All contributions are appreciated, especially for other specs. Simply keep the same basic structure as the current script to make merging easier.
 
-## Known bugs
+## Known bugs/issues
 
-- Omen of Clarity procs not showing
 - Text on cooldown bars is somewhat thick
 - No icon in top right of feral spec (any suggestions?)
+- Icon for combo points doesnt match the original one on FC. If anyone can get me the spell/item name of the old icon I'd appreciate it
+- No CD bar for clearcasting/bloodtalons/Predatory swiftness
+
+## Changelog
+
+### 1.01
+- Fixed issues with tiger's fury/berserk not showing on the cooldown bars as well as only showing on the main grid once available (rather than 10s before with a countdown). 
+- Clearcasting icon now shows when it should. 
+- Moved Combo points/energy to the cd bar. 
+  - Gave them icons
+- Set transparencies to 70% of both groups
