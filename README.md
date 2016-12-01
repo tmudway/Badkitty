@@ -48,6 +48,8 @@ I can be contacted ingame on Proudmoore-NA on the Alliance char Ryytikki or thro
 - Icon for combo points doesnt match the original one on FC. If anyone can get me the spell/item name of the old icon I'd appreciate it
 - No CD bar for clearcasting/bloodtalons/Predatory swiftness
 - Resources always show at the top of the cooldown bar
+- Ferocious bite doesnt show as red when low on energy/CP
+- Other finishers dont show as red when low on energy
 
 ## Changelog
 
