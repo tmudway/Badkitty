@@ -39,6 +39,8 @@ Ferocious bite only shows if savage roar has >12s left (can be changed the same 
 
 All contributions are appreciated, especially for other specs. Simply keep the same basic structure as the current script to make merging easier.
 
+I can be contacted ingame on Proudmoore-NA on the Alliance char Ryytikki or through github itself. I'll check here regularly but I can near guarentee you'll contact me that day with an ingame mail
+
 ## Known bugs/issues
 
 - Text on cooldown bars is somewhat thick
