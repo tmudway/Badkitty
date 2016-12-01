@@ -11,6 +11,7 @@ Current version has each spec as a seperate file. Will work on merging all into 
 4. Copy the entire text from whatever spec you want to add and paste it into the textbox at the bottom of the TMW config screen
 5. Click import/export/restore -> from string -> Profile: [profile name] -> Copy Profile -> Create New Profile
 6. Close that window and click "Exit config mode" in the other TMW window
+7. If you want to enable numerical countdown on the icons, go to interface settings -> action bars -> check "Show Numbers for Cooldowns"
 
 
 The scripts are currently set to only show during combat so you'll need to find a dummy/mob to test them on. To update, follow steps 2-6 but click Copy Profile - Overwrite <profile name> during step 5
