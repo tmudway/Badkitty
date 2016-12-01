@@ -9,7 +9,7 @@ Current version has each spec as a seperate file. Will work on merging all into 
 2. Open the TellMeWhen config by typing /tmw show
 3. Right click on any icon (blank or otherwise) you see
 4. Copy the entire text from whatever spec you want to add and paste it into the textbox at the bottom of the TMW config screen
-5. Click import/export/restore -> from string -> Profile: <profile name> -> Copy Profile - Create New Profile
+5. Click import/export/restore -> from string -> Profile: [profile name] -> Copy Profile -> Create New Profile
 6. Close that window and click "Exit config mode" in the other TMW window
 
 
