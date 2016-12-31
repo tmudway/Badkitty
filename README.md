@@ -31,7 +31,7 @@ All scripts confirmed to work with TMW version 8.2.3
 
 All icons will show if their current buff/debuff isnt applied or has come off cooldown. Each icon will also display if its about to drop off/come off cooldown (current timer starts at 7s)
 
-Rip and Savage Roar will show as red if you have less than the threshold number of combo points (5 for rip, 4 for savage roar). This threshold can be changed by right clicking the icon, going to "Conditions" near the bottom left of the config window and moving the sider.
+Rip and Savage Roar will show as red if you have less than the threshold number of combo points (5 for rip, 4 for savage roar) or too little energy to use them. This threshold can be changed by right clicking the icon, going to "Conditions" near the bottom left of the config window and moving the sider.
 
 Ferocious bite only shows if savage roar has >12s left (can be changed the same way as above) and either rip has >12s left or rip is applied and the boss has sub-25% health
 
@@ -44,14 +44,16 @@ I can be contacted ingame on Proudmoore-NA on the Alliance char Ryytikki or thro
 ## Known bugs/issues
 
 - Text on cooldown bars is somewhat thick
-- No icon in top right of feral spec (any suggestions?)
 - Icon for combo points doesnt match the original one on FC. If anyone can get me the spell/item name of the old icon I'd appreciate it
 - No CD bar for clearcasting/bloodtalons/Predatory swiftness
 - Resources always show at the top of the cooldown bar
-- Ferocious bite doesnt show as red when low on energy/CP
-- Other finishers dont show as red when low on energy
 
 ## Changelog
+
+### 1.02
+- Fixed issues with finishers not showing as red when below the required energy
+- Fixed issue where ashamane's bite didnt show as red when not ready
+- Added Ashamane's rip to to the top right corner. This lets you keep track of it's uptime and optimise pooling
 
 ### 1.01
 - Fixed issues with tiger's fury/berserk not showing on the cooldown bars as well as only showing on the main grid once available (rather than 10s before with a countdown). 
